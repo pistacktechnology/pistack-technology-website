@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- EDIT [DOMAIN] before deployment -->
+  <url><loc>https://[DOMAIN]/</loc></url>
+  <url><loc>https://[DOMAIN]/about</loc></url>
+  <url><loc>https://[DOMAIN]/services</loc></url>
+  <url><loc>https://[DOMAIN]/solutions</loc></url>
+  <url><loc>https://[DOMAIN]/projects</loc></url>
+  <url><loc>https://[DOMAIN]/contact</loc></url>
+</urlset>
